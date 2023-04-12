@@ -1,6 +1,6 @@
 TelescentOS
 ===============================
-TelescentOS is a unix-like toy kernel, which comes with some user routines and nano. (x86 based)
+TelescentOS is a unix-like toy kernel, which comes with some user routines and nanochrome (an cool text editor). (x86 based)
 
 ![TELESCENTOS](scrshot.png)
 
