@@ -1,8 +1,8 @@
-OS67
+TelescentOS
 ===============================
-OS67 is a unix-like toy kernel, which comes with some user routines. (x86 based)
+TelescentOS is a unix-like toy kernel, which comes with some user routines and nano. (x86 based)
 
-![OS67](scrshot.png)
+![TELESCENTOS](scrshot.png)
 
 
 ### Build requirements
@@ -19,7 +19,7 @@ Platform: Linux
 ### How to compile
 
 ```shell
-git clone https://github.com/SilverRainZ/OS67.git
+git clone https://github.com/peggy-48/TelescentOS.git
 cd OS67
 make init   # only for first time
 make fs     # build root file system and user routines, root privilege required
